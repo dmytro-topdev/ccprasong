@@ -12,6 +12,7 @@ I am looking forward to joining an innovative, dynamic company where I can utili
 🎬 I am ready to start your project immediately.
 
 My Core Skill Stack
+
 💽 Programming Languages : JavaScript, TypeScript, Python, C++/C#, QT, PHP, HTML/HTML5, CSS/SCSS/SASS
 🗃 Frontend : React, React Native, Redux, Next.js, Vue.js, Nuxt.js, WebGL, Three.js, D3.js, TailwindCSS, Material-UI, AntDesign
 🗃 Backend : Node.js, Express.js, Django, Flask
